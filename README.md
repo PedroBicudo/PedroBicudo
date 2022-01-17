@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Olá, eu sou Pedro :smile:</h1>
+<h1 align="center">Olá, eu sou o Pedro :smile:</h1>
 <h3 align="center">Back End Developer Jr.</h3>
 
 <p align="center">
