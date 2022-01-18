@@ -24,7 +24,7 @@ Eu sou um desenvolvedor que adora trabalhar em diversos tipos de aplicações co
 <br>
 
 ## 📫 Contato
-<a href="https://www.linkedin.com/in/pedro-henrique-augusto-bicudo-30031a179/">
+<a href="https://www.linkedin.com/in/pedro-bicudo/">
 	<img src="https://img.shields.io/badge/Linkedin-197fb7?style=for-the-badge" alt="Linkedin"/>
 </a>
 <br>
