@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [dsmovie](https://github.com/pedrobicudo/dsmovie)
 
-- 🌱 I’m currently learning **Java, Spring Boot, MySQL, Kubernetes and UML**
+- 🌱 I’m currently learning **Java, Spring Boot, MySQL and UML**
 
 - 📫 How to reach me **pedroabicudo@outlook.com**
 
