@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">A passionate java developer from Brazil</h3>
 
-- 🔭 I’m currently working on [dsmovie](https://github.com/pedrobicudo/dsmovie)
+- 🔭 I’m currently working on [markforum](https://github.com/PedroBicudo/markforum)
 
 - 🌱 I’m currently learning **Java, Spring Boot, Angular, MySQL and UML**
 
